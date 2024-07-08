@@ -1,6 +1,6 @@
-# Welcome to Hamid Raza's GitHub Profile
+# Welcome to My GitHub Profile
 
-👋 Hi, I’m Hamid Raza, a passionate MERN stack web developer with a knack for creating dynamic and responsive web applications. Welcome to my GitHub profile, where I share my projects and contributions in the world of web development.
+👋 Hi, I am passionate about MERN stack web development and always try to create dynamic and responsive web applications. You can check out my GitHub profile for my projects and contributions.
 
 ## 🛠️ Skills & Technologies
 

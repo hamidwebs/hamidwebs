@@ -7,7 +7,7 @@
 - **Frontend**: HTML, CSS, JavaScript, React, Redux
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
-- **Tools**: Git, Webpack, Babel
+- **Tools**: Git
 
 ## 📂 Projects
 

@@ -21,7 +21,5 @@
 ## 📫 How to Reach Me
 
 - **Email**: [itmughal2023@gmail.com](mailto:itmughal2023@gmail.com)
-
---
-
+-
 Feel free to explore the repositories, raise issues, and contribute to the projects. Happy coding!

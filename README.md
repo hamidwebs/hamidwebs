@@ -22,10 +22,6 @@
 
 - **Email**: [itmughal2023@gmail.com](mailto:itmughal2023@gmail.com)
 
-## 🙏 Acknowledgments
-
-Special thanks to all the open-source projects and developers whose work has been a constant source of inspiration and learning.
-
 ---
 
 Feel free to explore the repositories, raise issues, and contribute to the projects. Happy coding!
